@@ -67,4 +67,7 @@ public class SliderAdapter extends PagerAdapter {
          container.removeView((RelativeLayout)object);
 
     }
+    public void d(){
+
+    }
 }
