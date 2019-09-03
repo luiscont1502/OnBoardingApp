@@ -68,6 +68,6 @@ public class SliderAdapter extends PagerAdapter {
 
     }
     public void d(){
-
+    String dt="msfkn";
     }
 }
